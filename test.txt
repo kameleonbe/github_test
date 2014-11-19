@@ -1,3 +1,5 @@
 Lorem ipsum dolor sit.
 
 This is a second line (New Orleans style).
+
+There’s a third change for the new feature branch.
